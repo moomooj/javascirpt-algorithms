@@ -1,0 +1,10 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "javascript algorithms and data structures",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "MooMooJ<bunnyju0@gmail.com>",
+  "license": "MIT"
+}
